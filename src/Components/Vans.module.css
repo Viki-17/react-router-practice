@@ -1,0 +1,28 @@
+.container h1 {
+  margin: 10px;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+  margin: 10px;
+  gap: 10px;
+}
+.elements img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+.type {
+  background: #115e59;
+  border-radius: 5px;
+  border: none;
+  padding: 10px;
+  color: #ffffff;
+}
+.simple {
+  background: #e17654;
+}
+.luxury {
+  background: #161616;
+}

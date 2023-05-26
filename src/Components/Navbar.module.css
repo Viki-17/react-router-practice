@@ -1,0 +1,24 @@
+.container {
+  /* position: relative; */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  /* padding: 10px; */
+}
+.navlink {
+  margin: 10px;
+}
+.img {
+  width: 144.51px;
+  height: 20px;
+
+  line-height: 40px;
+  margin: 19px;
+}
+ul {
+  list-style-type: none;
+  font-family: "Josefin Sans";
+}
+li {
+  padding: 10px;
+}
